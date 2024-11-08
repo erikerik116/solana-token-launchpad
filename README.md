@@ -1,9 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Contact
-Feel free to contact @rust_sol_dev in telegram and rust_sol_dev in discord
+
+discord:  joni_727373
+
+telegram: @Akamala88071015
+
 
 ## Getting Started
+
+Clone this repository : git clone https://github.com/erikerik116/solana-token-launchpad
 
 First, run the development server:
 
